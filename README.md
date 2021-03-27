@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **zhaiyusci/zhaiyusci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Yu ZHAI, and 'ZHAI' is my lastname.
+
+I am now a Ph. D. candidate in Institute of Theoretical Chemistry, Jilin University, China.
+
+My job is related to the dynamics of molecules.  Some software packages have been created by me and are open for use to the community.  Please find them in my GitHub repos.
