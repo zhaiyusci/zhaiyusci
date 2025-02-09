@@ -1,10 +1,3 @@
-<script>
-  function playAudio(url) {
-    new Audio(url).play();
-  }
-</script>
-
-
 <pre align="center">
 <strong>Yu Zhai</strong> / <a href="https://www.zhaiyusci.net/">Homepage</a> / <a href="https://twitter.com/zhaiyusci">Twitter</a> / <a href="https://github.com/zhaiyusci">GitHub</a> / <a href="https://orcid.org/0000-0002-5065-688X">ORCID</a> / <a href="https://space.bilibili.com/19159644">Bilibili</a></pre>
 
